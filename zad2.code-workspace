@@ -2,6 +2,10 @@
 	"folders": [
 		{
 			"path": "."
+		},
+		{
+			"name": "localhost",
+			"path": "../../../../GitHub/test001/localhost"
 		}
 	]
 }

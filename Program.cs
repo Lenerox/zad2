@@ -2,7 +2,7 @@
 //using System.Data.SqlClient;
 //Console.WriteLine("Hello, World!");
 //using System;
-/*
+
 namespace ConnectingToSQLServer
 
 {
@@ -43,11 +43,11 @@ namespace ConnectingToSQLServer
         }
     }
 }
-*/
+
 
 using System.Text;
 
-
+/*
 namespace SqlServerSample
 {
     class Program
@@ -81,3 +81,4 @@ namespace SqlServerSample
         }
     }
 }
+*/
