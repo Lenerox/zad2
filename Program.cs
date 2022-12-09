@@ -1,5 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
-//using System.Data.SqlClient;
+using System.Data.SqlClient;
 //Console.WriteLine("Hello, World!");
 //using System;
 
@@ -45,7 +45,7 @@ namespace ConnectingToSQLServer
 }
 
 
-using System.Text;
+//using System.Text;
 
 /*
 namespace SqlServerSample
